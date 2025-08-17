@@ -1,0 +1,11 @@
+name: UHCMeetup
+main: me.Alex.KonixMeetup.Main
+version: 1.0
+
+commands:
+    health:
+    border:
+    spectate:
+        aliases: [spec]
+    stats:
+    start:
