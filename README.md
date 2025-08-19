@@ -1,6 +1,6 @@
 # UHCMeetup (2015/17) – UHC Meetup Minecraft Plugin
 
-**Original Features (by previous developer)**
+**Original Features (by previous developer, social/contact unknown)**
 
 ### Project Overview
 - **Duration:** 2015(Origin) - 2017(Given by previous developer under my lead)  
